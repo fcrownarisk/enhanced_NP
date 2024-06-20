@@ -1,2 +1,2 @@
-# logical world && || !=
-# path integral By Richard Fenyman
+logical world && || !=
+path integral By Richard Fenyman
