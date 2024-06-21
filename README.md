@@ -1,2 +1,3 @@
-logical world && || !=
-path integral By Richard Fenyman
+logical world && || != AND OR NOT
+lowercase uppercase ascii_code
+(path integral By Richard Fenyman)
