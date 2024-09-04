@@ -3,7 +3,7 @@ import junction.collector
 import junction.emitter
 def NNN():
  emitter =   '|_|_|_|'
- collector = '|_/ \_|'
+ collector = '|_\ \_|'
  base =      '|     |'
- collector = '|-\ /-|'
+ collector = '|-\ \-|'
  emitter =   '|_|_|_|'
