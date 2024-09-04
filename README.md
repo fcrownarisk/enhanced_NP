@@ -10,10 +10,15 @@ collector
 base
 emitter
 
-UPPERCASE (ABCDEF GHIJKL MNOPRS TUVW XYZ) NPN PNP NNN PPP NNP PPN
+narrow type :
+  UPPERCASE (ABCDEF GHIJKL MNOPRS TUVW XYZ) NPN PNP NNN PPP NNP PPN
+  
+border type :
+  lowercase (abcdef ghijkl mnoprs tuvw xyz) NNN PPP NPN PNP NNP PPN
 
-lowercase (abcdef ghijkl mnoprs tuvw xyz) NNN PPP NPN PNP NNP PPN
-
-ascii_code 
-
-(path integral By Richard Feynmann)
+NNN -> NNNN
+PPP -> PPPP
+NNP -> NNNP
+PPN -> PPPN
+NPN -> NNPN
+PNP -> PNPP
