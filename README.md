@@ -10,10 +10,10 @@ collector
 base
 emitter
 
-narrow type :
+border type :
   UPPERCASE (ABCDEF GHIJKL MNOPRS TUVW XYZ) NPN PNP NNN PPP NNP PPN
   
-border type :
+narrow type :
   lowercase (abcdef ghijkl mnoprs tuvw xyz) NNN PPP NPN PNP NNP PPN
 
 NNN -> NNNN
