@@ -16,9 +16,9 @@ border type :
 narrow type :
   lowercase (abcdef ghijkl mnoprs tuvw xyz) NNN PPP NPN PNP NNP PPN
 
-NNN -> NNNN
-PPP -> PPPP
-NNP -> NNNP
-PPN -> PPPN
-NPN -> NNPN
-PNP -> PNPP
+NNN -> NNNN \\\\
+PPP -> PPPP ////
+NNP -> NNNP \\\/
+PPN -> PPPN ///\
+NPN -> NNPN \\/\
+PNP -> PNPP /\//
