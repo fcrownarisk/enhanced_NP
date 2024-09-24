@@ -12,6 +12,7 @@ emitter
   border type :
   UPPERCASE (ABCDEF GHIJKL MNOPRS TUVW XYZ) 
   NPN PNP NNN PPP NNP PPN
+  
    In Summary :
   NPNP PNPN NNNN PPPP NNPP PPNN
   
