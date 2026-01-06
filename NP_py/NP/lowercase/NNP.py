@@ -5,5 +5,6 @@ def NNP():
  emitter =    '|_|_|_|'
  collector =  '|_\ \_|'
  base =       '|     |'
- collector =  '|-\ /-|'
+ collector =  '|-\ \-|'
  emitter =    '|_|_|_|'
+
