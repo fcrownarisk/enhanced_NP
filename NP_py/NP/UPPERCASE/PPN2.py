@@ -5,5 +5,5 @@ def PPN():
  emitter =   '|_|_|_|'
  collector = '|-/ /-|'
  base =      '|     |'
- collector = '|_/ \_|'
+ collector = '|_\ /_|'
  emitter =   '|_|_|_|'
