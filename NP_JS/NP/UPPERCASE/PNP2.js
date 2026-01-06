@@ -1,3 +1,4 @@
+//PNPN
 import 'junction/base'
 import 'junction/collector'
 import 'junction/emitter'
