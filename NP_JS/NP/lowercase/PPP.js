@@ -6,6 +6,7 @@ export function PPP(){
 emitter =   '|_|_|_|'
 collector=  '|_/ /_|'
 base =      '|     |'
-collecotor= '|-/ /-|'
+collector= '|-/ /-|'
 emitter =   '|_|_|_|'
 }
+
